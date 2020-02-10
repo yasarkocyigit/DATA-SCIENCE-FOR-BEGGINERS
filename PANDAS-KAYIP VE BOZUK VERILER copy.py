@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 arr = np.array([[10,20,np.nan],[5,np.nan,np.nan],[21,np.nan,10]])
-
+#array olusturuyoruz once bir tane
 #burada ornek olmasi acisindan icerisinde not a number (nan) degerler verdik
 
 print(arr)
