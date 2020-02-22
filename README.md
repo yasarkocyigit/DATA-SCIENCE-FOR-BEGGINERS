@@ -1,8 +1,6 @@
 # DATA-SCIENCE-FOR-BEGGINERS
-DATA SCIENCE ILE ILGILI GENEL BILGILER
-BURADA YUKLEDIGIM CALISMLAR BENIM PYCHARMDA ORNEKLENDIRME VE CALISMA YAPARKEN KULLANDIGIM BILGILERDIR..
-ISE YARAMASI BASKALARINADA FAYDALI OLMASI ACISINDAN BURAYA YUKLUYORUM ARSIV OLMASI ACISINDAN.
-KODLARIN CIKTILARI KODUN HEMEN ALTINDA VERILMISTIR ISTERSENIZ DIREKT CIKTISINI ALIP UZERINDE CALISABILIRSINIZ
-YA DA KOPYALAYIP ISTEDIGINI PLATFORMA YAPISTIRIP KENDINIZ CIKTILARI TEST EDEBILIRSINIZ
-IYI CALISMALAR HERKESE.
+
+INFORMATIONS ABOUT DATA SCIENCE:
+Hey Guys;
+I will share my own works and informations that i am getting experienced everyday... If you guys wanna use my works, you can just copy/paste to your workplace or you can print out to reading in your free times. Also if you guys see something wrong on my works or if you know better way to make it easier feel free to make comment under my works. Have a great works everyone!
 
