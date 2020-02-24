@@ -5,7 +5,7 @@ import pandas as pd
 """
 i downloaded datas from kaggle as csv file and i put that file in my pycharm work project folder to read it here!
 
-i will also upload csv file here
+i will also upload csv file here and you can find as "mlsSalaries copy.csv"
 
 
 
