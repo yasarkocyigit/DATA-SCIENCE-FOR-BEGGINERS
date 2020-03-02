@@ -5,7 +5,7 @@ import pandas as pd
 """
 i downloaded datas from kaggle as csv file and i put that file in my pycharm work project folder to read it here!
 
-i will also upload csv file here
+i will also upload csv file here(unfortunately i can not upload file here guys because file size is more than 25mb i will find another way)
 
 
 we will work on youtube trend videos on this project to make understand pandas basics...
