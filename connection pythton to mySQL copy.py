@@ -3,6 +3,9 @@ firs thing you need to do guys that is install mysql-connector
 
 open terminal and copy paste this: pip install mysql-connector-python-rf
 
+after you install mysql connector if did not work you can find different one.
+search by " install mysql connector"
+
 """
 
 #now we can import "mysql-connector
